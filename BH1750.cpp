@@ -7,7 +7,7 @@
  * @git https://github.com/plomi-net/arduino-codes       *
  * @author MP | Plomi.net                                *
  *                                                       *
- * default i2c addr: 0x76 or 0x72                        *
+ * default i2c addr: 0x23                                *
  *                                                       *
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 
